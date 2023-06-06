@@ -1,0 +1,9 @@
+/* Tablate Layout */
+@media only screen and (min-width:200px) and (max-width:991px){
+    .social_area{
+        padding-top: 20px;
+        float: right;
+        max-width: 460px;
+        width: 100%;
+    }
+}
